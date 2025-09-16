@@ -1,2 +1,2 @@
-# GitHubReposotory-Test
+# GitHubRepository-Test
 JavaScript
